@@ -1,4 +1,5 @@
 ## Class Theory
+Here will explore 'Class Theory' before moving on to OOJS.
 
 ## Objects
 Object Oriented Programming is a design pattern created to give our code reason, organization and extensibility (code re-use). To accomplish this architecture, we compare our 'inanimate' code, to 'animate' (real-world) objects. For example, let's compare a program that might have dogs in it, with a real dog. We can use our parts of speech to describe this dog.
