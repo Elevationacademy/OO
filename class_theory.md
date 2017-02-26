@@ -56,14 +56,14 @@ Notice that we've removed the `breed` and `fur-color` attributes. These will be 
 ```JavaScript
 class GoldenRetriever extends Dog {
   breed: 'Golden Retriever',
-  fur_color: 'gold',
+  fur_color: 'gold'
 }
 ```
 
 ```JavaScript
 class BlackLab extends Dog {
   breed: 'Black Lab',
-  fur_color: 'black',
+  fur_color: 'black'
 }
 ```
 
